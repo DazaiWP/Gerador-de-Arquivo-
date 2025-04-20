@@ -46,7 +46,7 @@ gerador-termo-luma/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-termo-luma.git
+git clone https://github.com/DazaiWP/gerador-termo-luma.git
 Instale as dependências:
 
 bash
